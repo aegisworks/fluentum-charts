@@ -3,7 +3,7 @@ entries:
   fluentum:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-31T01:22:47.988389196Z"
+    created: "2024-01-31T01:47:52.863784184Z"
     dependencies:
     - name: fluentum-api
       repository: file://charts/fluentum-api
@@ -15,7 +15,7 @@ entries:
       repository: file://charts/fluentum-ui
       version: 0.1.0
     description: A Helm chart for fluentum control plane.
-    digest: 3e1746767bf1a678db27551dd67d8e145c4047f1d5570cc5a6db39e39bc3f435
+    digest: d95166844c2384e6a5c07ad5ccfb87c912493485f4631d053b9c993d58623a0d
     maintainers:
     - email: dev@aegis.co.id
       name: Aegis Dev
@@ -24,4 +24,4 @@ entries:
     urls:
     - https://aegisworks.github.io/fluentum-0.1.0.tgz
     version: 0.1.0
-generated: "2024-01-31T01:22:47.985994642Z"
+generated: "2024-01-31T01:47:52.860344866Z"
