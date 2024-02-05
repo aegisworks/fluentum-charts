@@ -3,7 +3,7 @@ entries:
   fluentum:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-02-05T01:09:21.804143108Z"
+    created: "2024-02-05T15:00:05.98863906Z"
     dependencies:
     - name: fluentum-api
       repository: file://charts/fluentum-api
@@ -26,7 +26,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: v1.0.0-rc3
-    created: "2024-02-05T01:09:21.809492191Z"
+    created: "2024-02-05T15:00:05.991927552Z"
     dependencies:
     - name: fluentum-api
       repository: file://charts/fluentum-api
@@ -49,7 +49,7 @@ entries:
     version: v1.0.0-rc3
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-02-05T01:09:21.806358584Z"
+    created: "2024-02-05T15:00:05.990257056Z"
     dependencies:
     - name: fluentum-api
       repository: file://charts/fluentum-api
@@ -71,8 +71,31 @@ entries:
     - https://aegisworks.github.io/fluentum-v1.0.0-rc2.tgz
     version: v1.0.0-rc2
   - apiVersion: v2
+    appVersion: 0.2.0-rc1
+    created: "2024-02-05T15:00:05.985809367Z"
+    dependencies:
+    - name: fluentum-api
+      repository: file://charts/fluentum-api
+      version: 1.0.0
+    - name: fluentum-tenant
+      repository: file://charts/fluentum-tenant
+      version: 1.0.0
+    - name: fluentum-ui
+      repository: file://charts/fluentum-ui
+      version: 1.0.0
+    description: A Helm chart for fluentum control plane.
+    digest: dc6ac43956ad3b3d1f4a63bf7bd2cecb35f8282bfff3933b6668713bf0a05cd5
+    maintainers:
+    - email: dev@fluentum.io
+      name: Fluentum Dev
+    name: fluentum
+    type: application
+    urls:
+    - https://aegisworks.github.io/fluentum-0.2.0-rc1.tgz
+    version: 0.2.0-rc1
+  - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-02-05T01:09:21.802374147Z"
+    created: "2024-02-05T15:00:05.983851172Z"
     dependencies:
     - name: fluentum-api
       repository: file://charts/fluentum-api
@@ -93,4 +116,4 @@ entries:
     urls:
     - https://aegisworks.github.io/fluentum-0.1.0.tgz
     version: 0.1.0
-generated: "2024-02-05T01:09:21.800547785Z"
+generated: "2024-02-05T15:00:05.982007776Z"
