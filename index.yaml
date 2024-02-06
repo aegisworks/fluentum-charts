@@ -3,7 +3,7 @@ entries:
   fluentum:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-02-06T16:48:28.427672056Z"
+    created: "2024-02-06T16:48:29.691428366Z"
     dependencies:
     - name: fluentum-api
       repository: file://charts/fluentum-api
@@ -26,7 +26,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: v1.0.0-rc3
-    created: "2024-02-06T16:48:28.432710186Z"
+    created: "2024-02-06T16:48:29.695050193Z"
     dependencies:
     - name: fluentum-api
       repository: file://charts/fluentum-api
@@ -49,7 +49,7 @@ entries:
     version: v1.0.0-rc3
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-02-06T16:48:28.430838975Z"
+    created: "2024-02-06T16:48:29.693183179Z"
     dependencies:
     - name: fluentum-api
       repository: file://charts/fluentum-api
@@ -72,7 +72,7 @@ entries:
     version: v1.0.0-rc2
   - apiVersion: v2
     appVersion: 0.2.0-rc3
-    created: "2024-02-06T16:48:28.426095847Z"
+    created: "2024-02-06T16:48:29.689736354Z"
     dependencies:
     - name: fluentum-api
       repository: file://charts/fluentum-api
@@ -84,7 +84,7 @@ entries:
       repository: file://charts/fluentum-ui
       version: 0.2.0-rc3
     description: A Helm chart for fluentum control plane.
-    digest: 6188168e8fe6c58878662aa6ff14b2ae61a7de6b7a2b1b6dc0caf503b30a6301
+    digest: 18b0b636d3ac49bdf73b8d379248e5b4e6d3ed654382eec7e12b2fb5cf71f212
     maintainers:
     - email: dev@fluentum.io
       name: Fluentum Dev
@@ -95,7 +95,7 @@ entries:
     version: 0.2.0-rc3
   - apiVersion: v2
     appVersion: 0.2.0-rc2
-    created: "2024-02-06T16:48:28.424457137Z"
+    created: "2024-02-06T16:48:29.688034941Z"
     dependencies:
     - name: fluentum-api
       repository: file://charts/fluentum-api
@@ -118,7 +118,7 @@ entries:
     version: 0.2.0-rc2
   - apiVersion: v2
     appVersion: 0.2.0-rc1
-    created: "2024-02-06T16:48:28.422867728Z"
+    created: "2024-02-06T16:48:29.685765824Z"
     dependencies:
     - name: fluentum-api
       repository: file://charts/fluentum-api
@@ -141,7 +141,7 @@ entries:
     version: 0.2.0-rc1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-02-06T16:48:28.421186318Z"
+    created: "2024-02-06T16:48:29.683406706Z"
     dependencies:
     - name: fluentum-api
       repository: file://charts/fluentum-api
@@ -162,4 +162,4 @@ entries:
     urls:
     - https://aegisworks.github.io/fluentum-charts/fluentum-0.1.0.tgz
     version: 0.1.0
-generated: "2024-02-06T16:48:28.419306307Z"
+generated: "2024-02-06T16:48:29.681049989Z"
